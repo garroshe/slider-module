@@ -18,8 +18,7 @@ A lightweight, customizable slider module for web applications. Perfect for show
  slidesFieldSelector - this argument is responsible for the wrapper with slides.
 
 HTML example
-
-"
+```
 <div class="offer__slider">
                 <div class="offer__slider-counter">
                     <div class="offer__slider-prev">
@@ -49,4 +48,3 @@ HTML example
                     </div>
                 </div>
             </div>
-"
