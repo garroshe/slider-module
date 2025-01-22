@@ -19,6 +19,7 @@ A lightweight, customizable slider module for web applications. Perfect for show
 
 HTML example
 
+"
 <div class="offer__slider">
                 <div class="offer__slider-counter">
                     <div class="offer__slider-prev">
@@ -48,3 +49,4 @@ HTML example
                     </div>
                 </div>
             </div>
+"
